@@ -3,4 +3,4 @@ Optional replacements for TrimUI OS 1.1.0
 
 # Optional Replacements
 ## Icons
-The Burst! Centered icon set renamed for TrimUI OS 1.1.0
+Various icon sets renamed properly for use with TrimUI OS 1.1.0
