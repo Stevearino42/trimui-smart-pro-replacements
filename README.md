@@ -1,6 +1,6 @@
 # TrimUI Smart Pro Replacements
 
-Optional bits and pieces for TrimUI OS 1.1.0
+Optional bits and pieces for the TrimUI Smart Pro running TrimUI OS 1.1.0 (20250430) and firmware version 1.1.0 (20250505)
 
 ## Icons
 
