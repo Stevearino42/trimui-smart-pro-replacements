@@ -17,7 +17,7 @@ Download them from the [Releases](https://github.com/Stevearino42/trimui-smart-p
 
 ## Emulators
 
-Additions to the Games tab.
+Additions to the Games tab for use with TrimUI OS 1.1.0
 
 Currently includes:
 
@@ -25,4 +25,3 @@ Currently includes:
 
 Download them from the [Releases](https://github.com/Stevearino42/trimui-smart-pro-replacements/releases) page.
 
-*eof*
