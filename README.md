@@ -17,3 +17,7 @@ Currently includes icons from:
 Download them from the [Releases](https://github.com/Stevearino42/trimui-smart-pro-replacements/releases) page.
 
 View the README.txt file in the zip archive for installation instructions.
+
+![Screenshot 2025-05-29 202158](https://github.com/user-attachments/assets/dc28c81b-6c24-427a-b5f8-023d61a11098)
+*Burst! Centered Icons*
+
